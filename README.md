@@ -1,4 +1,6 @@
-<img src =""/>
+<p align ="center">
+  <img width="300" height="150" src = "https://github.com/arielchunn/arielchunn/blob/main/Hello%20World.png?raw=true"> 
+</p>
 
 I am a Data Analyst passionate about taking complex data and creating visualizations for others. I began my journey through **Geographic Information Systems** (GIS) where I was able to apply statistical analysis through ArcGIS Pro and was introduced to python. After learning python, I took steps to learn other visualization softwares like **Tableau** and **PowerBI**. 
 
